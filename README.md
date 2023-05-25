@@ -4,12 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This application fetches token information of sample NFTs and uses that information to interact with the Resorvoir API which will provide the latest data on pricing and current bids on the provided tokens.
 
-## Available Scripts
+## Getting Started
 
 Make sure to download and boot up the FirstMate Backend project first
 Validate that you have the following environment variables set up in your local .env file
 
 <em>REACT_APP_TOKENS_API_URL</em>
+
 <em>REACT_APP_RESERVOIR_API_KEY</em>
 
 In the project directory, you can run:
